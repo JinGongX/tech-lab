@@ -1,5 +1,11 @@
 实现类似微信公众号的文本划线功能：
 
+运行方式：
+```bash
+npm install
+npm run dev
+```
+
 - 单线
 - 双线
 - 波浪线
@@ -7,3 +13,4 @@
 - 划线状态修复
 - Vue3 + TypeScript
 - 支持 Web / Wails3
+
